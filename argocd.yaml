@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: /
-    repoURL: https://github.com/lindhe/argocd-kustomization-diff.git
+    repoURL: https://github.com/lindhe/argocd-kustomization-diff-issue-14665.git
     targetRevision: master
   syncPolicy:
     automated:

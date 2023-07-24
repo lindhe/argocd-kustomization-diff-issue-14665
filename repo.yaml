@@ -7,4 +7,4 @@ metadata:
     argocd.argoproj.io/secret-type: repository
 stringData:
   type: git
-  url: https://github.com/lindhe/argocd-kustomization-diff.git
+  url: https://github.com/lindhe/argocd-kustomization-diff-issue-14665.git
